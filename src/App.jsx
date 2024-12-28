@@ -78,7 +78,6 @@ function App() {
             },
           }}
         />
-        {/* <Uploader /> */}
       </QueryClientProvider>
     </DarkModeProvider>
   );
