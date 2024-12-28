@@ -17,6 +17,7 @@ import Booking from './pages/Booking';
 import Checkin from './pages/Checkin';
 import ProtectedRoute from './ui/ProtectedRoute';
 import { DarkModeProvider } from './Context/DarkModeContext';
+import Uploader from './data/Uploader';
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -77,6 +78,7 @@ function App() {
             },
           }}
         />
+        {/* <Uploader /> */}
       </QueryClientProvider>
     </DarkModeProvider>
   );
