@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System (Wild Oasis)
+# 🏨 Hotel Management System (Wild Oasis Dashboard)
 
 This project is a React application built during the [Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=KEEPLEARNING) on Udemy. The system is designed for managing a small hotel , including features for handling bookings, guests, check-ins, and check-outs, as well as displaying cabin details and booking statistics.
 
